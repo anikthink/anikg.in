@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Work+Sans&display=swap');
 @import url("https://use.typekit.net/ese8sod.css");
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap')
 
 body {
   font-family: "Work Sans","Helvetica Neue", Helvetica, sans-serif;
@@ -27,7 +28,7 @@ ul {
 //TYPOGRAPHY-------------------------------------
 
 h1, h2  {
-  font-family: gastromond, "Work Sans","Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Playfair Display", gastromond, "Work Sans","Helvetica Neue", Helvetica, sans-serif;
 }
 
 h3, h4, h5, h6, p {
@@ -39,19 +40,19 @@ h1, h2 {
 }
 
 h1 {
-  font-size: 2.5rem;
+  font-size: 2.8rem;
   letter-spacing: -1px;
   line-height: 1.1875;
 }
 
 h2 {
-  font-size: 2rem;
+  font-size: 2.2rem;
   letter-spacing: -.75px;
   line-height: 1.2;
 }
 
 h3 {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   letter-spacing: -.5px;
   line-height: 1.1875;
   color: #A0A0A0;
